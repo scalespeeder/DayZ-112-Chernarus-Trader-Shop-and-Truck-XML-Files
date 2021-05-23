@@ -34,6 +34,6 @@ Please notes that the trader-truck-spawnabletype.xml trader-truck-event.xml extr
 should be uploaded to your DB folder.
 
 Please note that these are Vanilla 112 files and that item spawns in the store count towards that items nominal value, so you may want to consider
-increaseing those values in the types.xml so items still spawn in other places.
+increasing those values in the types.xml so items still spawn in other places.
 
 Thanks, Rob.
